@@ -29,28 +29,28 @@
             "name": "腾讯｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/腾讯视频.js"
+            "ext": "./js/txsp.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/优酷视频.js"
+            "ext": "./js/yksp.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/芒果视频.js"
+            "ext": "./js/mgsp.js"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇异｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/爱奇艺.js"
+            "ext": "./js/aqy.js"
         },
      
         {
@@ -67,7 +67,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./json/哔哩合集.json",
+                "json": "./json/blhj.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         }
